@@ -1,0 +1,1618 @@
+1
+00:00:00,000 --> 00:00:04,319
+CR: entonces más o menos quería preguntarte
+
+2
+00:00:02,040 --> 00:00:08,570
+qué antecedentes tú tenías de la
+
+3
+00:00:04,319 --> 00:00:11,059
+aplicación de la hoja de cálculo
+
+4
+00:00:08,570 --> 00:00:14,780
+FC: Qué antecedentes de la hoja de cálculo?
+
+5
+00:00:11,059 --> 00:00:18,730
+CR: cuando surgió de donde proviene cuando
+
+6
+00:00:14,780 --> 00:00:18,730
+la aplicaron como lo usaban?
+
+7
+00:00:19,230 --> 00:00:28,119
+FC: bueno la hoja de cálculo parte digamos
+
+8
+00:00:25,240 --> 00:00:31,490
+como una iniciativa muy básica a nivel
+
+9
+00:00:28,119 --> 00:00:34,119
+de colegas de centros de salud
+
+10
+00:00:31,490 --> 00:00:34,119
+ya
+
+11
+00:00:34,990 --> 00:00:42,790
+de alguna manera ellos querían, por así
+
+12
+00:00:39,250 --> 00:00:44,760
+decirlo tener una alguna forma de poder
+
+13
+00:00:42,790 --> 00:00:48,790
+realizar esos cálculos rápidamente
+
+14
+00:00:44,760 --> 00:00:51,940
+aprovechando la tecnología de ese
+
+15
+00:00:48,790 --> 00:00:54,220
+momento que era tener por lo menos una
+
+16
+00:00:51,940 --> 00:00:56,040
+planilla excel que podía hacer ese tipo
+
+17
+00:00:54,220 --> 00:00:59,540
+de cálculo
+
+18
+00:00:56,040 --> 00:00:59,540
+y varios estábamos
+
+19
+00:00:59,950 --> 00:01:06,970
+varios varios la estamos compartiendo y
+
+20
+00:01:04,600 --> 00:01:10,370
+la estábamos usando de cierta forma en
+
+21
+00:01:06,970 --> 00:01:12,530
+nuestra actividad clínica
+
+22
+00:01:10,370 --> 00:01:15,590
+CR: y desde cuando ocupaba en esa hoja de cálculo app tú te acordarás
+
+23
+00:01:12,530 --> 00:01:17,510
+FR:no yo no lo
+
+24
+00:01:15,590 --> 00:01:20,480
+recuerdo porque antes de que llegara yo
+
+25
+00:01:17,510 --> 00:01:25,730
+inclusive 
+
+CR: Ahh ya tenía un historial ya
+
+26
+00:01:20,480 --> 00:01:27,980
+FR: claro claro 
+CR: ya perfecto después llega
+
+27
+00:01:25,730 --> 00:01:30,770
+la solicitud cierto un poco la solicitud
+
+28
+00:01:27,980 --> 00:01:34,130
+o la idea de poder llevar esta hoja
+
+29
+00:01:30,770 --> 00:01:35,810
+de cálculo 
+FR: a una aplicación exacto
+
+30
+00:01:34,130 --> 00:01:38,550
+CR: y allí nosotros elaboramos un prototipo
+
+31
+00:01:35,810 --> 00:01:40,470
+que si mal no lo recuerda
+
+32
+00:01:38,550 --> 00:01:43,250
+se demoró como dos semanas te acuerdas que
+
+33
+00:01:40,470 --> 00:01:46,890
+salió súper rápido el prototipo
+
+FR: si
+
+34
+00:01:43,250 --> 00:01:49,100
+CR: y recuerdas que falencias tenía ese
+
+35
+00:01:46,890 --> 00:01:52,490
+prototipo inicial
+
+36
+00:01:49,100 --> 00:01:54,530
+FR: Uy que me recuerde es que lo que pasa
+
+37
+00:01:52,490 --> 00:01:57,380
+que partimos con un prototipo muy básico
+
+38
+00:01:54,530 --> 00:01:59,720
+con cálculos básico
+
+CR: solo cálculos
+
+39
+00:01:57,380 --> 00:02:01,820
+sencillos pero que característica o
+
+40
+00:01:59,720 --> 00:02:05,159
+qué cosas te podrías tú acordar un poco
+
+41
+00:02:01,820 --> 00:02:09,149
+tal vez de ese prototipo inicial
+
+42
+00:02:05,159 --> 00:02:11,580
+FR: Aah bueno inicialmente teníamos no sé si se
+
+43
+00:02:09,149 --> 00:02:15,379
+llama así pero teníamos como la apertura
+
+44
+00:02:11,580 --> 00:02:20,310
+de pantalla un poco más lenta
+
+45
+00:02:15,379 --> 00:02:23,970
+CR: Era bastante más lenta te acuerdas 
+
+FR: el problema es que quedaba
+
+46
+00:02:20,310 --> 00:02:27,450
+mucho tiempo entre el por así decirlo
+
+47
+00:02:23,970 --> 00:02:31,140
+entre la carátula de la aplicación y el
+
+48
+00:02:27,450 --> 00:02:35,640
+poder ingresar a los datos
+
+49
+00:02:31,140 --> 00:02:39,420
+al uso digamos, a usar la aplicación 
+
+CR: y eso era al final
+
+50
+00:02:35,640 --> 00:02:42,480
+poco funcional 
+
+FR: claro de hecho nos lo
+
+51
+00:02:39,420 --> 00:02:44,190
+observaron también que que al parecer
+
+52
+00:02:42,480 --> 00:02:46,510
+como que se quedaba pegada y algunos
+
+53
+00:02:44,190 --> 00:02:48,720
+pensaban que estaba
+
+54
+00:02:46,510 --> 00:02:51,710
+con falencias
+
+55
+00:02:48,720 --> 00:02:54,930
+CR: claro pero independientemente de eso
+
+56
+00:02:51,710 --> 00:02:57,420
+con ese prototipo
+
+57
+00:02:54,930 --> 00:02:59,099
+empezamos a hacer algunas mejoras y
+
+58
+00:02:57,420 --> 00:03:01,260
+las mejores que vinieron después lo que
+
+59
+00:02:59,099 --> 00:03:03,599
+buscaron entonces un poco fue mejorar la
+
+60
+00:03:01,260 --> 00:03:06,569
+velocidad cierto 
+FR: claro 
+
+CR: En la forma de
+
+61
+00:03:03,599 --> 00:03:09,689
+carga
+
+FR: pero además de eso o sea porque
+
+62
+00:03:06,569 --> 00:03:12,930
+como inicialmente era básica la
+
+63
+00:03:09,689 --> 00:03:15,090
+aplicación no se diferenciaba tampoco de
+
+64
+00:03:12,930 --> 00:03:17,400
+otras que hay en la web en el sentido de
+
+65
+00:03:15,090 --> 00:03:18,750
+la prestación que tenía entonces desde
+
+66
+00:03:17,400 --> 00:03:22,819
+esa perspectiva desde ese primer
+
+67
+00:03:18,750 --> 00:03:25,260
+prototipo es que empezamos a planificar
+
+68
+00:03:22,819 --> 00:03:27,959
+otras utilidades de la misma aplicación
+
+69
+00:03:25,260 --> 00:03:30,419
+que se hiciera que se
+
+70
+00:03:27,959 --> 00:03:33,470
+diferenciará de la que uno encuentra
+
+71
+00:03:30,419 --> 00:03:33,470
+habitualmente en la web
+
+72
+00:03:33,760 --> 00:03:40,800
+CR: y los otro te acuerdas del proceso de
+
+73
+00:03:37,140 --> 00:03:42,310
+licencia de lo que significó
+
+74
+00:03:40,800 --> 00:03:43,630
+FR: sí
+
+
+76
+00:03:43,630 --> 00:03:50,020
+pero en qué sentido la pregunta
+
+77
+00:03:46,690 --> 00:03:52,569
+CR: que te pareció que significó para ti, si
+
+78
+00:03:50,020 --> 00:03:57,069
+fue un aporte, si
+
+79
+00:03:52,569 --> 00:03:58,810
+fue difícil, engorroso 
+
+FR: ahora yo creo
+
+80
+00:03:57,069 --> 00:04:02,069
+que primero fue lento es lento el
+
+81
+00:03:58,810 --> 00:04:02,069
+proceso ya
+
+82
+00:04:02,610 --> 00:04:07,470
+pero yo creo que igual recibimos harto
+
+83
+00:04:04,980 --> 00:04:09,990
+tuvimos varias reuniones por lo menos yo
+
+84
+00:04:07,470 --> 00:04:13,080
+fui a reuniones con la gente en
+
+85
+00:04:09,990 --> 00:04:16,400
+algunas fuimos juntos y fui a otras
+
+86
+00:04:13,080 --> 00:04:16,400
+reuniones con las personas de
+
+87
+00:04:17,019 --> 00:04:23,259
+de innovación de la universidad y ellos
+
+88
+00:04:20,680 --> 00:04:27,819
+igual nos apoyarón harto pero sin
+
+89
+00:04:23,259 --> 00:04:30,050
+embargo el proceso no es rápido si mal
+
+90
+00:04:27,819 --> 00:04:33,560
+no recuerdo nos demoramos más de un año
+
+91
+00:04:30,050 --> 00:04:35,240
+CR: si ese proceso se demoró entre que
+
+92
+00:04:33,560 --> 00:04:38,539
+empezo a hacerse
+
+93
+00:04:35,240 --> 00:04:41,030
+el proceso de la patente y que nos
+
+94
+00:04:38,539 --> 00:04:44,840
+sacaron las firmas fácilmente pasaron
+
+95
+00:04:41,030 --> 00:04:49,180
+entre dos a tres meses y de ahí las patentes se
+
+96
+00:04:44,840 --> 00:04:49,180
+hiciesen efectivas y se hiciera el registro en la dibam
+
+97
+00:04:49,210 --> 00:04:52,210
+67
+igual paso un buen par de meses, 6 a 7 meses
+
+98
+00:04:53,919 --> 00:04:59,460
+FR: sí sí
+
+99
+00:04:56,520 --> 00:05:02,789
+ahora fue importante claro que es muy
+
+100
+00:04:59,460 --> 00:05:06,719
+importante porque por así decirlo le
+
+101
+00:05:02,789 --> 00:05:10,900
+otorgaba cierto respaldo a ésta
+
+102
+00:05:06,719 --> 00:05:15,009
+aplicación innovada digamos con características
+
+103
+00:05:10,900 --> 00:05:17,110
+particulares que le permiten que le
+
+104
+00:05:15,009 --> 00:05:19,920
+permiten al usuario tener mayores
+
+105
+00:05:17,110 --> 00:05:24,870
+utilidades respecto a la aplicación
+
+107
+00:05:24,870 --> 00:05:29,619
+también para la escuela
+
+108
+00:05:26,870 --> 00:05:33,800
+CR: tengo llego al final lo del prin
+
+109
+00:05:29,619 --> 00:05:36,370
+FR: lo de ahora dices tu?
+
+CR: lo de la aplicación
+
+110
+00:05:33,800 --> 00:05:36,370
+FR: sí sí
+
+111
+00:05:40,300 --> 00:05:49,129
+FR: eso sí que se  demoro más que 
+
+112
+00:05:43,280 --> 00:05:51,800
+la licencia 
+
+CR: si después de que la
+
+113
+00:05:49,129 --> 00:05:53,990
+aplicación tuvo
+
+114
+00:05:51,800 --> 00:05:56,389
+una mejora en el rendimiento porque lo
+
+115
+00:05:53,990 --> 00:05:58,569
+primero fue buscar como mejorar el
+
+116
+00:05:56,389 --> 00:06:01,340
+rendimiento propiamente tal en la
+
+117
+00:05:58,569 --> 00:06:03,139
+calculadora el primer cambio como
+
+118
+00:06:01,340 --> 00:06:05,000
+importante que se le hizo fue la
+
+119
+00:06:03,139 --> 00:06:08,960
+incorporación de los gráficos de guía
+
+120
+00:06:05,000 --> 00:06:12,080
+nose que te recordarás sobre
+
+121
+00:06:08,960 --> 00:06:14,340
+aquello o qué notas tiene sobre ese
+
+122
+00:06:12,080 --> 00:06:19,740
+cambio que se realizó
+
+123
+00:06:14,340 --> 00:06:22,080
+FR: bueno en ese afán un poco de hacer
+
+124
+00:06:19,740 --> 00:06:26,040
+que la aplicación tuviese más utilidad
+
+125
+00:06:22,080 --> 00:06:28,229
+en la labor diaria de las personas que
+
+126
+00:06:26,040 --> 00:06:31,639
+trabajamos en la atención del embarazo
+
+127
+00:06:28,229 --> 00:06:34,979
+como matrona como médico gineco-obstetra
+
+128
+00:06:31,639 --> 00:06:39,120
+hay otro tipo de cálculos más allá de la
+
+129
+00:06:34,979 --> 00:06:41,280
+edad gestacional más allá de la fur
+
+130
+00:06:39,120 --> 00:06:44,160
+operacional hay otros cálculos que se
+
+131
+00:06:41,280 --> 00:06:46,430
+usan y uno de ellos era es
+
+132
+00:06:44,160 --> 00:06:49,410
+el cálculo del índice de masa corporal
+
+133
+00:06:46,430 --> 00:06:50,610
+para evaluar el estado nutricional de la
+
+134
+00:06:49,410 --> 00:06:52,850
+gestante
+
+135
+00:06:50,610 --> 00:06:52,850
+por lo tanto
+
+136
+00:06:52,960 --> 00:06:59,620
+desde ahí se le agrego esta nueva
+
+137
+00:06:55,060 --> 00:07:02,190
+utilidad a la aplicación y que la
+
+138
+00:06:59,620 --> 00:07:06,490
+intención, cuya intención era que
+
+139
+00:07:02,190 --> 00:07:08,759
+fuera útil para el profesional en su
+
+140
+00:07:06,490 --> 00:07:08,759
+atención ya,
+
+141
+00:07:09,449 --> 00:07:15,009
+y de hecho
+
+142
+00:07:12,400 --> 00:07:16,389
+además de además de los números digamos
+
+143
+00:07:15,009 --> 00:07:18,699
+del hecho que tuviésemos las gráficas
+
+144
+00:07:16,389 --> 00:07:20,750
+les permite ahorrar tiempo también a las
+
+145
+00:07:18,699 --> 00:07:23,870
+personas
+
+146
+00:07:20,750 --> 00:07:28,100
+que hasta ese momento digamos
+
+147
+00:07:23,870 --> 00:07:31,970
+era un poco arcaico la forma de hacer
+
+148
+00:07:28,100 --> 00:07:34,970
+el cálculo 
+
+CR: claro porque en el sistema de
+
+149
+00:07:31,970 --> 00:07:39,760
+la calculadora del excel igual está sólo
+
+150
+00:07:34,970 --> 00:07:39,760
+en el dibujito me recuerdo
+
+151
+00:07:40,750 --> 00:07:46,429
+y qué
+
+152
+00:07:43,329 --> 00:07:49,089
+comentarios o bien qué recuerdos tienes
+
+153
+00:07:46,429 --> 00:07:49,089
+sobre
+
+154
+00:07:49,750 --> 00:07:55,210
+las semanas que hubo un problema de
+
+155
+00:07:52,150 --> 00:07:57,160
+cálculo que recuerda sobre eso cuando hubo
+
+156
+00:07:55,210 --> 00:07:59,650
+un problema de la actualización no
+
+157
+00:07:57,160 --> 00:08:01,570
+actualizamos cuando correspondía y
+
+158
+00:07:59,650 --> 00:08:04,420
+tuvimos un problema de cálculo con la
+
+159
+00:08:01,570 --> 00:08:07,240
+fecha 
+
+FR: ya había versión sumamente
+
+160
+00:08:04,420 --> 00:08:09,760
+importante interesante y por algún
+
+161
+00:08:07,240 --> 00:08:14,890
+momento un poco impactante, esos tres
+
+162
+00:08:09,760 --> 00:08:19,060
+conceptos en el sentido de que uno me
+
+163
+00:08:14,890 --> 00:08:22,120
+causó preocupación el hecho de que
+
+164
+00:08:19,060 --> 00:08:24,220
+no estuviera la aplicación realizando
+
+165
+00:08:22,120 --> 00:08:26,950
+los cálculos de forma correcta porque
+
+166
+00:08:24,220 --> 00:08:29,050
+eso impacta sobre la atención de la
+
+167
+00:08:26,950 --> 00:08:32,020
+persona por lo tanto si hubiese habido
+
+168
+00:08:29,050 --> 00:08:34,870
+algún colega o médico que se hubiese
+
+169
+00:08:32,020 --> 00:08:38,650
+dejado guiar por por el cálculo sin duda
+
+170
+00:08:34,870 --> 00:08:41,529
+eso afecta la atención ya, es sensible el
+
+171
+00:08:38,650 --> 00:08:44,350
+error es ser muy sensible ya pero sin
+
+172
+00:08:41,529 --> 00:08:47,560
+embargo me hizo darme cuenta también por
+
+173
+00:08:44,350 --> 00:08:49,420
+el otro lado mirándolo positivamente de
+
+174
+00:08:47,560 --> 00:08:53,050
+la importancia del uso que tenía la
+
+175
+00:08:49,420 --> 00:08:55,540
+aplicación porque con lo rápido que
+
+176
+00:08:53,050 --> 00:08:58,630
+empezamos a recibir los comentarios eso
+
+177
+00:08:55,540 --> 00:09:01,690
+me hizo ver la potencialidad que tenía
+
+178
+00:08:58,630 --> 00:09:03,550
+la aplicación y que en realidad la
+
+179
+00:09:01,690 --> 00:09:05,320
+estaban usando porque de hecho los
+
+180
+00:09:03,550 --> 00:09:07,600
+comentarios no solamente nos decían que
+
+181
+00:09:05,320 --> 00:09:09,580
+había el error sino que se dieron cuenta
+
+182
+00:09:07,600 --> 00:09:11,350
+de que funcionaba muy bien y que de
+
+183
+00:09:09,580 --> 00:09:13,570
+pronto
+
+184
+00:09:11,350 --> 00:09:16,920
+quienes la habían actualizado de pronto
+
+185
+00:09:13,570 --> 00:09:19,670
+comenzaron a ver el error
+
+186
+00:09:16,920 --> 00:09:23,000
+digamos, entonces
+
+187
+00:09:19,670 --> 00:09:25,700
+a pesar de que a uno le produce digamos
+
+188
+00:09:23,000 --> 00:09:28,550
+preocupación pero a la vez es positivo
+
+189
+00:09:25,700 --> 00:09:31,540
+saber que la gente, que las personas
+
+190
+00:09:28,550 --> 00:09:33,990
+valora van muy bien la aplicación
+
+191
+00:09:31,540 --> 00:09:36,990
+CR: qué te parece el uso de la aplicación
+
+192
+00:09:33,990 --> 00:09:36,990
+actual
+
+193
+00:09:37,810 --> 00:09:41,860
+en cuanto a cantidad de usuario de
+
+194
+00:09:40,180 --> 00:09:44,529
+personas
+
+195
+00:09:41,860 --> 00:09:47,680
+FR: o sea yo creo que que por lo menos a mí
+
+196
+00:09:44,529 --> 00:09:50,050
+me a sorprendido mucho la llegada que ha
+
+197
+00:09:47,680 --> 00:09:52,959
+tenido la aplicación no sólo a nivel de
+
+198
+00:09:50,050 --> 00:09:56,500
+nuestro país por ejemplo cuando yo, en lo
+
+199
+00:09:52,959 --> 00:09:58,089
+más cercano, de hecho yo te diría que por
+
+200
+00:09:56,500 --> 00:10:00,940
+lo menos a aca todos nuestros
+
+201
+00:09:58,089 --> 00:10:05,529
+estudiantes utilizan la aplicación sino
+
+202
+00:10:00,940 --> 00:10:06,880
+por lo menos 95 o 98 por ciento y los
+
+203
+00:10:05,529 --> 00:10:09,430
+que no la tienen es porque todavía no
+
+204
+00:10:06,880 --> 00:10:11,079
+llegan a las prácticas clínicas, lo otro
+
+205
+00:10:09,430 --> 00:10:13,959
+es que no sólo eso, como nosotros tenemos
+
+206
+00:10:11,079 --> 00:10:17,380
+contacto con las colegas yo te diria que
+
+207
+00:10:13,959 --> 00:10:18,670
+y con los médicos, mucha mucha gente aquí
+
+208
+00:10:17,380 --> 00:10:21,250
+en la zona
+
+209
+00:10:18,670 --> 00:10:24,370
+aquí en aconcagua profesionales utilizan
+
+210
+00:10:21,250 --> 00:10:25,959
+la aplicación, entonces yo inclusive a mí
+
+211
+00:10:24,370 --> 00:10:28,420
+me ha sorprendido que realmente me encuentro
+
+212
+00:10:25,959 --> 00:10:29,620
+con ello y de repente en conversaciones
+
+213
+00:10:28,420 --> 00:10:31,230
+veo que la aplicación está en sus
+
+214
+00:10:29,620 --> 00:10:33,270
+teléfonos por ejemplo
+
+215
+00:10:31,230 --> 00:10:35,670
+sin haber tenido ningún contacto previo
+
+216
+00:10:33,270 --> 00:10:40,080
+ahora lo otro cuando vemos los números
+
+217
+00:10:35,670 --> 00:10:43,620
+que estuvimos viendo esta semana, claro
+
+218
+00:10:40,080 --> 00:10:46,230
+me llama la atención como como ha
+
+219
+00:10:43,620 --> 00:10:48,370
+aumentado el nivel de usuario sobre todo
+
+220
+00:10:46,230 --> 00:10:52,410
+a nivel internasional
+
+221
+00:10:48,370 --> 00:10:52,410
+porque más que en chile
+
+222
+00:10:53,210 --> 00:10:58,100
+México
+
+223
+00:10:54,760 --> 00:10:59,840
+CR: ahora tú crees que los profesionales
+
+224
+00:10:58,100 --> 00:11:03,960
+entonces o las personas que están usando
+
+225
+00:10:59,840 --> 00:11:08,430
+esta aplicación son solo matronas
+
+226
+00:11:03,960 --> 00:11:10,440
+FR: Uy es difícil saberlo por lo
+
+227
+00:11:08,430 --> 00:11:12,690
+menos en mi experiencia he visto que
+
+228
+00:11:10,440 --> 00:11:15,630
+matronas y médicos
+
+229
+00:11:12,690 --> 00:11:20,160
+y estudiantes del área de la salud son
+
+230
+00:11:15,630 --> 00:11:22,800
+los que más la usan ahora yo creo que
+
+231
+00:11:20,160 --> 00:11:25,560
+a pesar de que debe deben haber usuarios
+
+232
+00:11:22,800 --> 00:11:28,230
+del
+
+233
+00:11:25,560 --> 00:11:31,410
+del público general que debe tener la
+
+234
+00:11:28,230 --> 00:11:33,750
+aplicación yo creo que cuando entramos a
+
+235
+00:11:31,410 --> 00:11:35,670
+los aspectos más específicos como hablar
+
+236
+00:11:33,750 --> 00:11:39,870
+del fur operacional hablar de
+
+237
+00:11:35,670 --> 00:11:42,290
+doppler hablar de las otras utilidades
+
+238
+00:11:39,870 --> 00:11:45,089
+que tiene la aplicación yo creo que ahí
+
+239
+00:11:42,290 --> 00:11:50,249
+puede ser que
+
+240
+00:11:45,089 --> 00:11:53,879
+que no lleguen a la comprensión de la
+
+241
+00:11:50,249 --> 00:11:55,379
+utilidad o de la potencialidad que tiene
+
+242
+00:11:53,879 --> 00:11:59,970
+a lo mejor muchos de ellos se dan cuenta ahí
+
+243
+00:11:55,379 --> 00:12:02,399
+que la aplicación tiene como población objetivo los
+
+244
+00:11:59,970 --> 00:12:06,379
+profesionales de la salud más
+
+245
+00:12:02,399 --> 00:12:06,379
+que el usuario común
+
+246
+00:12:08,670 --> 00:12:14,449
+CR: gracias y lo otro
+
+247
+00:12:11,779 --> 00:12:17,060
+qué recuerdos tienes de las jornadas de
+
+248
+00:12:14,449 --> 00:12:19,819
+salud que fuimos u otras jornada donde
+
+249
+00:12:17,060 --> 00:12:23,660
+hemos participado o hayas ido a
+
+250
+00:12:19,819 --> 00:12:25,680
+presentar trabajos asociado de la
+
+251
+00:12:23,660 --> 00:12:28,250
+calculadora
+
+252
+00:12:25,680 --> 00:12:28,250
+FR: ya
+
+253
+00:12:28,339 --> 00:12:33,279
+por lo menos de lo que fue la jornada de
+
+254
+00:12:30,769 --> 00:12:33,279
+educación
+
+255
+00:12:33,350 --> 00:12:38,280
+creo que la presentación que tuvimos fue
+
+256
+00:12:35,509 --> 00:12:40,840
+súper bien recibida
+
+257
+00:12:38,280 --> 00:12:43,110
+entendiendo de que la jornada de
+
+258
+00:12:40,840 --> 00:12:45,880
+educación son transversales no solamente
+
+259
+00:12:43,110 --> 00:12:49,300
+digamos del área de la obstetricia sino
+
+260
+00:12:45,880 --> 00:12:53,550
+que habían otros profesionales de la
+
+261
+00:12:49,300 --> 00:12:53,550
+salud que trabajan en la educación
+
+262
+00:12:54,070 --> 00:13:00,930
+creo que fue bien recibida creo que
+
+263
+00:12:56,440 --> 00:13:00,930
+tuvimos de hecho
+
+264
+00:13:01,139 --> 00:13:04,889
+digamos recibimos un respaldo de seguir
+
+265
+00:13:03,329 --> 00:13:08,339
+avanzando inclusive desde los
+
+266
+00:13:04,889 --> 00:13:10,529
+comentarios de las personas ahora esto
+
+267
+00:13:08,339 --> 00:13:13,170
+también ha permitido que la aplicación
+
+268
+00:13:10,529 --> 00:13:17,939
+de cierta forma llegue a otras personas
+
+269
+00:13:13,170 --> 00:13:19,079
+desde el boca a boca por ejemplo cuando
+
+270
+00:13:17,939 --> 00:13:21,419
+fui ahora
+
+271
+00:13:19,079 --> 00:13:23,669
+al congreso internacional de matronas de
+
+272
+00:13:21,419 --> 00:13:26,609
+paraguay me di cuenta también que hay
+
+273
+00:13:23,669 --> 00:13:28,199
+otros profesionales que nunca los
+
+274
+00:13:26,609 --> 00:13:30,660
+habíamos visto en nuestra vida digamos
+
+275
+00:13:28,199 --> 00:13:33,089
+que hablan, que tienen la aplicación en
+
+276
+00:13:30,660 --> 00:13:35,609
+sus teléfonos entonces yo creo que no
+
+277
+00:13:33,089 --> 00:13:38,339
+alcanzamos nosotros dimensionar hasta
+
+278
+00:13:35,609 --> 00:13:41,189
+dónde ha llegado inclusive
+
+279
+00:13:38,339 --> 00:13:42,990
+CR: otra cosa francisco él, tú dices que
+
+280
+00:13:41,189 --> 00:13:44,699
+claro lo estaba usando personas cuando
+
+281
+00:13:42,990 --> 00:13:46,589
+fueron a un congreso en paraguay sin
+
+282
+00:13:44,699 --> 00:13:51,400
+embargo la aplicación fue íntegramente
+
+283
+00:13:46,589 --> 00:13:53,180
+hecha para el contexto en chile 
+
+FR:ahora
+
+284
+00:13:51,400 --> 00:13:55,250
+si bien
+
+285
+00:13:53,180 --> 00:13:56,810
+FR: si bien fue hecha para el contexto de
+
+286
+00:13:55,250 --> 00:14:00,800
+chile en el sentido de que tiene algunos
+
+287
+00:13:56,810 --> 00:14:03,470
+datos como por ejemplo el período de
+
+288
+00:14:00,800 --> 00:14:08,390
+descanso prenatal en chile el resto
+
+289
+00:14:03,470 --> 00:14:12,110
+de o una parte digamos de la información
+
+290
+00:14:08,390 --> 00:14:14,240
+que la aplicación arroja digamos no
+
+291
+00:14:12,110 --> 00:14:19,270
+tiene
+
+292
+00:14:14,240 --> 00:14:21,410
+o sea va más allá de la utilidad en chile
+
+293
+00:14:19,270 --> 00:14:23,930
+por ejemplo el cálculo de la edad
+
+294
+00:14:21,410 --> 00:14:26,000
+gestacional de la fur operacional en
+
+295
+00:14:23,930 --> 00:14:28,459
+todos los lugares del mundo se hace de
+
+296
+00:14:26,000 --> 00:14:30,529
+la misma forma ahora está tal vez cuando
+
+297
+00:14:28,459 --> 00:14:33,950
+hablamos de biometría fetal ahí va a
+
+298
+00:14:30,529 --> 00:14:36,649
+cambiar, biometría fetal me refiero a
+
+299
+00:14:33,950 --> 00:14:40,000
+la medición de los parámetros del feto
+
+300
+00:14:36,649 --> 00:14:44,029
+allí va a cambiar digamos también
+
+301
+00:14:40,000 --> 00:14:46,610
+respecto a las realidades de ciertos
+
+302
+00:14:44,029 --> 00:14:48,860
+países sin embargo eso por lo menos la
+
+303
+00:14:46,610 --> 00:14:51,440
+utilidad
+
+304
+00:14:48,860 --> 00:14:53,270
+digamos en aquellos aspectos en que en
+
+305
+00:14:51,440 --> 00:14:56,050
+el cálculo es el mismo a nivel
+
+306
+00:14:53,270 --> 00:14:56,050
+internacional
+
+307
+00:14:57,150 --> 00:15:02,250
+o sea los colegas con los que puede
+
+308
+00:14:59,100 --> 00:15:07,890
+conversar la usan y le sirve
+
+309
+00:15:02,250 --> 00:15:10,650
+CR: genial y en relación a la última
+
+310
+00:15:07,890 --> 00:15:13,710
+actualización las curvas de doppler que
+
+311
+00:15:10,650 --> 00:15:16,770
+se incorporaron a la aplicación cuál fue
+
+312
+00:15:13,710 --> 00:15:21,650
+la finalidad y por qué se incorporan
+
+313
+00:15:16,770 --> 00:15:24,390
+estos elementos nuevos o sea cual es
+
+314
+00:15:21,650 --> 00:15:28,070
+o que es lo que persigue la aplicación al
+
+315
+00:15:24,390 --> 00:15:30,330
+incorporar este otro tipo de cálculo
+
+316
+00:15:28,070 --> 00:15:34,260
+FR: bueno
+
+317
+00:15:30,330 --> 00:15:36,680
+la intención es que el trabajo de los
+
+318
+00:15:34,260 --> 00:15:39,840
+profesionales en el área de obstetricia
+
+319
+00:15:36,680 --> 00:15:43,190
+implica la utilización de un método
+
+320
+00:15:39,840 --> 00:15:43,190
+diagnóstico que es la ultrasonografía
+
+321
+00:15:43,379 --> 00:15:51,310
+y digamos muchos de los parámetros
+
+322
+00:15:48,320 --> 00:15:53,210
+que se obtienen en la ultrasonografía
+
+323
+00:15:51,310 --> 00:15:55,880
+dependen del cálculo de la edad
+
+324
+00:15:53,210 --> 00:15:58,190
+gestacional entonces como inicialmente
+
+325
+00:15:55,880 --> 00:15:59,650
+nosotros partimos con una aplicación que
+
+326
+00:15:58,190 --> 00:16:02,080
+hacía cálculo de edad gestacional
+
+327
+00:15:59,650 --> 00:16:05,240
+cálculo de fecha probable de parto
+
+328
+00:16:02,080 --> 00:16:09,110
+asimismo esta aplicación podía servir
+
+329
+00:16:05,240 --> 00:16:10,930
+para evaluar digamos los parámetros de
+
+330
+00:16:09,110 --> 00:16:13,700
+doppler en relaciones de esa edad
+
+331
+00:16:10,930 --> 00:16:17,620
+gestacional desde ahí agrega una nueva utilidad y
+
+332
+00:16:13,700 --> 00:16:20,410
+complementa a la aplicación en su uso
+
+333
+00:16:17,620 --> 00:16:24,240
+CR: o sea sigue estando entonces dentro del
+
+334
+00:16:20,410 --> 00:16:27,400
+mismo contexto inicial, ampliandolo 
+
+FR: lo amplía
+
+335
+00:16:24,240 --> 00:16:31,449
+CR: perfecto y como tú ves el futuro de la
+
+336
+00:16:27,400 --> 00:16:36,339
+aplicación 
+
+FR: ya los desafíos
+
+337
+00:16:31,449 --> 00:16:39,129
+yo creo que yo creo que uno el primer
+
+338
+00:16:36,339 --> 00:16:44,079
+desafío tal vez más importante es que
+
+339
+00:16:39,129 --> 00:16:45,759
+podamos convertir la aplicación sobre
+
+340
+00:16:44,079 --> 00:16:48,100
+todo en aquellos lugares donde donde
+
+341
+00:16:45,759 --> 00:16:53,649
+tenemos muchos usuarios que no son en
+
+342
+00:16:48,100 --> 00:16:56,189
+chile poder uno en el caso de Brasil poder la
+
+343
+00:16:53,649 --> 00:16:56,189
+aplicación
+
+344
+00:16:56,660 --> 00:17:02,829
+darle el plus de que en esos países
+
+345
+00:16:59,660 --> 00:17:02,829
+puede ser bajada en portugués en su idioma
+
+346
+00:17:03,980 --> 00:17:10,010
+o también en inglés que es un idioma más
+
+347
+00:17:06,049 --> 00:17:12,740
+universal para quien lo quiera y lo otro
+
+348
+00:17:10,010 --> 00:17:19,699
+es también que aquellos parámetros que
+
+349
+00:17:12,740 --> 00:17:22,360
+son útiles especificamente para nuestro país podamos hacerlos
+
+350
+00:17:19,699 --> 00:17:27,280
+específicos para cada país por lo menos
+
+351
+00:17:22,360 --> 00:17:31,400
+para quellos que son nuestro mayor.. como méxico y
+
+352
+00:17:27,280 --> 00:17:34,100
+latinoamérica en general 
+
+CR: claro y la
+
+353
+00:17:31,400 --> 00:17:42,010
+última pregunta el principal usuario de
+
+354
+00:17:34,100 --> 00:17:42,010
+la aplicación no es chile qué te parece eso
+
+355
+00:17:42,040 --> 00:17:46,900
+o qué comentario que se te viene a
+
+356
+00:17:45,130 --> 00:17:48,850
+la cabeza cuando piensas que en realidad
+
+357
+00:17:46,900 --> 00:17:52,940
+es una aplicación para chile pero nuestros
+
+358
+00:17:48,850 --> 00:17:58,970
+principales usuarios están fuera de chile
+
+359
+00:17:52,940 --> 00:18:00,980
+FR: ya yo mira yo creo que puede deberse a a
+
+360
+00:17:58,970 --> 00:18:04,010
+ah
+
+361
+00:18:00,980 --> 00:18:06,620
+a dos motivos bueno uno de ellos que
+
+362
+00:18:04,010 --> 00:18:08,750
+realmente la aplicación
+
+363
+00:18:06,620 --> 00:18:10,510
+es útil para los profesionales de la
+
+364
+00:18:08,750 --> 00:18:13,550
+salud que trabajan en ginecobstetricia
+
+365
+00:18:10,510 --> 00:18:15,760
+ya independientemente que tengan algunos
+
+366
+00:18:13,550 --> 00:18:20,200
+contextos de realidad chilena
+
+367
+00:18:15,760 --> 00:18:22,810
+que inclusive aún aún aún siendo esa es el
+
+368
+00:18:20,200 --> 00:18:26,320
+objetivo hay parámetros de la aplicación
+
+369
+00:18:22,810 --> 00:18:29,710
+que son útiles universalmente ya y
+
+370
+00:18:26,320 --> 00:18:31,980
+segundo qué bueno méxico nuestro
+
+371
+00:18:29,710 --> 00:18:35,309
+principal usuario
+
+372
+00:18:31,980 --> 00:18:36,630
+y si lo miramos en densidad poblacional
+
+373
+00:18:35,309 --> 00:18:38,190
+probablemente hayan muchos más
+
+374
+00:18:36,630 --> 00:18:40,530
+profesionales del área de la
+
+375
+00:18:38,190 --> 00:18:43,020
+gineco-obstetricia en la salud que
+
+376
+00:18:40,530 --> 00:18:45,270
+trabajan en ese lugar ya y por lo tanto
+
+377
+00:18:43,020 --> 00:18:48,540
+en términos de cantidad de personas
+
+378
+00:18:45,270 --> 00:18:50,190
+puede ser que ellos nos superen digamos
+
+379
+00:18:48,540 --> 00:18:55,460
+desde una perspectiva mas bien matemática
+
+380
+00:18:50,190 --> 00:18:59,179
+solamente pero pero aún aún eso
+
+381
+00:18:55,460 --> 00:18:59,179
+impacta el hecho de que
+
+382
+00:19:00,050 --> 00:19:06,110
+de que desde otro país se valore tanto
+
+383
+00:19:03,290 --> 00:19:09,270
+la utilidad la aplicación como para que
+
+384
+00:19:06,110 --> 00:19:11,400
+tantas personas la usen
+
+385
+00:19:09,270 --> 00:19:14,340
+en el ámbito profesional porque yo creo
+
+386
+00:19:11,400 --> 00:19:15,960
+que fundamentalmente no puedo decirlo a
+
+387
+00:19:14,340 --> 00:19:17,610
+ciencia cierta pero yo creo que
+
+388
+00:19:15,960 --> 00:19:19,620
+fundamentalmente lo usan personas del
+
+389
+00:19:17,610 --> 00:19:21,090
+ámbito profesional de hecho cuando como
+
+390
+00:19:19,620 --> 00:19:23,040
+tengo cuando fui a paraguay yo me
+
+391
+00:19:21,090 --> 00:19:25,050
+encontré con un médico mexicano y
+
+392
+00:19:23,040 --> 00:19:29,120
+la usaba y me encontré con colegas con
+
+393
+00:19:25,050 --> 00:19:29,120
+matronas paraguayas que la usaba entonces
+
+394
+00:19:29,580 --> 00:19:33,920
+entonces yo creo que no dimensionamos
+
+395
+00:19:31,290 --> 00:19:38,030
+primero eso
+
+396
+00:19:33,920 --> 00:19:41,540
+CR: que bueno y eso era
+
+397
+00:19:38,030 --> 00:19:44,570
+francisco.
