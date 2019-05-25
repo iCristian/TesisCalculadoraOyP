@@ -1,0 +1,59 @@
+FECHA,DESCRIPCIÓN,OBJETIVO,V. APP,CICLO
+30/05/2016,Se estudian diversas alternativas para elaborar solicitud de desarrollo de una calculadora Obstétrica,Seleccionar en lo posible una plataforma que permita elaborar aplicaciones tanto para Android como para iOS,No Aplica,1
+13/06/2016,"Se selecciona Ionic Framework para desarrollar la propuesta en vista de ser una plataforma hibrida de desarrollo basada en Angular y Javascript con un equipo que actualiza constantemente el framework, se destaca la cantidad de plantillas disponible en la misma plataforma, además de una buena base de documentación.",Definir marco de trabajo para el desarrollo,No Aplica,1
+17/06/2016,Se comienza a hacer pruebas de desarrollo de la calculadora en Ionic 1,Pruebas de desarrollo,No Aplica,1
+4/07/2016,"Se tiene ya elaborado un primer prototipo muy básico de la aplicación que realiza calculos los calculos en base a FUR, calcula fecha probable de parto según norma de Chile y semanas de embarazo, se compila para iOS",Prototipo de aplicación aún muy básico,No Aplica,1
+20/07/2016,"Ya se tiene prototipo funcional para calculos según FUR y FUR operacional, calcula semanas de embarazo, fecha probable de parto y descanso prenatal, se compila para iOS",Prototipo inicial de pruebas,No Aplica,1
+12/08/2016,"Se presenta app a consejo de Escuela quiene splantean posibilidad de patentar la aplicación, se presenta prototipo para iOS",Presentar idea,1.0,1
+18/07/2016,Se realiza ajustes y correcciones a la interfaz y se compila proyecto para Android,Mejoras en la aplicación,1.0,1
+29/07/2016,Se Observa una baja en la performance de inicio de la aplicación en Android,Incidencia en Android,1.0,1
+16/08/2016,Comienza toma de contacto con OTL UV para ver proceso de licenciamiento de la aplicación,Licencia de la aplicación,No Aplica,1
+23/08/2016,"OTL presenta proceso a seguir para inscripción de Software, permisos necesarios, y sesión sobre los derechos para que esta sea inscrita a nombre de la Universidad reconociendo los derechos de los creadores en la obra. ",Licencia de la aplicación,No Aplica,1
+26/08/2016,OTL envía formularios previos necesarios para la inscripción,Licencia de la aplicación,No Aplica,1
+7/09/2016,OTL recepciona documentación de formularios y sesión de derechos,Licencia de la aplicación,No Aplica,1
+10/09/2016,Se realizan diversas pruebas de optimización para mejorar la carga de la aplicación en Android,Incidencia en Android,1.0,1
+21/09/2016,OTL solicita corrección en formulario en la sección de confidencialidad,Licencia de la aplicación,No Aplica,1
+29/09/2016,Se envian correcciones y OTL solicita Proyecto compilado de la aplicación en 3 copias para adjuntar en la inscripción,Licencia de la aplicación,No Aplica,1
+23/11/2016,Escuela organiza pago del proceso de inscripción vía fondo fijo.,Licencia de la aplicación,No Aplica,1
+25/11/2016,OTL solicita información completa de los sotwares utilizados para elaborar la aplicación,Licencia de la aplicación,No Aplica,1
+30/11/2016,"Se formaliza pago del registro de software, proceso colcuido y se queda a la espera de aceptación",Licencia de la aplicación,No Aplica,1
+12/12/2016,Se investiga en Github y Stackoverflow metodos de mejorar el inicio de aplicaciones Ionic en Android,Incidencia en Android,1.0,1
+15/12/2016,Se adquiere a modo personal cuentas desarrollador para publicar en Android y se reactiva cuenta de desarrollador en Apple,Disponer de cuentas en las tiendas de aplicaciones para publicar la aplicación y hacerla pública,No Aplica,1
+20/12/2016,Se implementan mejoras en la compilación para android para disminuir tiempo de inicio de la aplicación,Incidencia en Android,1.1,1
+28/12/2016,Llega a la escuela registro de inscripción con número 273.351 el cual ya habilita poder publicar la aplicación,Licencia de la aplicación,No Aplica,1
+4/01/2017,Se sube proyecto a Google Play para distrubuir,Compilación Android,1.1,1
+5/01/2017,Se sube proyecto a App Store para distrubuir,Compilación iOS,1.1,1
+18/01/2017,Se reciben algunos comentarios respecto al inicio de la aplicación en dispositivos Android de gama baja relacionados con el inicio de la aplicación y retrasos de hasta 12 seg. en iniciar,Incidencia en Android,1.1,1
+1/02/2017,Estudio personal sobre procesos de carga en proyectos Angular,Desarrollo,No Aplica,2
+1/03/2017,Continua estudio y pruebas relacionados con mejorar la carga inicial de la aplicación,Incidencia en Android,1.1,2
+4/03/2017,Comienza estudio de Ionic 2.0 beta (la versión estable destaca por inestabilidad y correcciones sobre la marcha),Incidencia en Android,No Aplica,2
+7/03/2017,Se desarrolla proyecto en versión de Ionic 2.0.0-rc.4 puesto que no requería cambios drasticos en la programación del proyecto y soluciona de raíz problema de carga de la aplicación. También se agrega una nueva paleta de colores más acorde al icono de la aplicación.,Incidencia en Android,Alpha 1.2,2
+10/04/2017,Se realiza prueba interna de versión Alpha 1.2 corregido el inicio,Compilación Android,Alpha 1.2,2
+16/05/2017,Se publica versión estable y corregida de la aplicación en Ionic 2.0.0-rc.4 que mejora el inicio de la aplicación,Compilación Android,1.2,2
+1/06/2017,Comienza estudio de Ionic 3 beta lo que implica reestructurar todo el código ante los cambios radicales en la arquitectura del proyecto y las dificultades de Ionic 2 en hacer una transición armonica entre las diferentes versiones de Angular.,Mejoras en la aplicación,No Aplica,2
+10/06/2017,Se comienza a migrar el proyecto a Ionic 3,Mejoras en la aplicación,Alpha 1.2.1,2
+20/06/2017,Prueba interna de la aplicación en Ionic 3,Mejoras en la aplicación,Beta 1.2.1,2
+4/07/2017,"Lanzamiento de versión 1.2.1 se destaca mejoras importantes en la performance de la aplicación, así como una disminución importante en el tamaño de esta",Mejoras en la aplicación,1.2.1,2
+18/07/2017,Inicia estudio de implementar librería gráfica en ChartJS para el cálculo de IMC en la gestante y representar el estado en una vista gráfica,Mejoras en la aplicación,No Aplica,2
+10/08/2017,"Se estudian a mejoras en vista a actualizaciones importantes en las nuevas versiones y actualizaciones en los sistemas operativos de Android e iOS, por ejemplo en la presentación anual IO 2017 de Google, se busca estandarizan algunos elementos de la interfaz que antes quedaban a cargo del programador, buscando una unificación en las diferentes subversiones de Android en vista a futuras actualizaciones del sistema operativo. Se avecina también la necesidad de adaptar las pantallas a una tendencia del uso de notch para aprovechar mejor el espacio utilizado por el auricular y microfono en las pantallas",Mejoras en la aplicación,No Aplica,2
+20/08/2017,Se da inicio a migración del proyecto en versión estable y actualizada de Ionic 3 compatible con nuevas versiones de iOS y Android,Mejoras en la aplicación,Alpha 1.3,2
+10/09/2017,Prueba interna en versión 1.3,Mejoras en la aplicación,1.3,2
+16/10/2017,Se publica versión 1.3 que mejora fluidez de elementos en pantalla y es compatible con pantallas notch en Android,Mejoras en la aplicación,1.3,2
+1/11/2017,"Ante la llegada de un correo de incidencia en el calculo de fechas, se revisa la plataforma y vemos en los comentarios calificaciones negativas en vista a un error de cálculo en Android",Incidencia en Android,1.3,2
+2/11/2017,Comienzan pruebas internas y estudio en foros de StackOverflow para identificar el problema de cálculo,Incidencia en Android,1.3,2
+5/11/2017,Se cambia el algoritmo de cálculo de fechas,Incidencia en Android,Alpha 1.3.1,2
+9/11/2017,Se publica versión 1.3.1 que corrige problemas en la fecha de cálculo,Incidencia en Android,1.3.1,2
+10/11/2017,Se implementa desarrollo en ChartJS para implementar cálculod e IMC,Mejoras en la aplicación,Alpha 1.4,2
+15/11/2017,Prueba interna de versión con IMC en gestantes,Mejoras en la aplicación,Beta 1.4,2
+18/11/2017,Lanzamiento de versión 1.4,Mejoras en la aplicación,1.4,2
+24/02/2018,Llega un comentario de actualizar la aplicación para habilitar cálculos en 2018,Incidencia Aplicación,1.4,2
+26/02/2018,Actualización 1.4.1 para cálculos 2018,Mejoras en la aplicación,1.4.1,2
+10/03/2018,Estudio de nuevas características para versión actualizada en 2018,Mejoras en la aplicación,Pre Alpha 2.0,3
+20/04/2018,Se presenta oportunidad de presentar la aplicación y resultados preliminares en jornada DECSA de la U. de Chile,Presentar la propuesta en congresos,No Aplica,3
+24/05/2018,Presentación en Jornada DECSA en la cual se presenta proyección 2018 de implementar cálculo Doppler en Obstetricia,Mejoras en la aplicación,Pre Alpha 2.0,3
+10/06/2018,Comienza inicio de elaboración de propuesta para 2018 en versión estable de Ionic 3,Mejoras en la aplicación,Alpha 2.0,3
+1/07/2018,Cambiosen la interfaz de la aplicación en vista al menu de selección de opciones en nueva versión,Mejoras en la aplicación,Alpha 2.0,3
+10/08/2018,"Pruebas internas de versión 2.0, destaca cambios importantes que vienen en Angular con la futura implementación de Angular 7",Mejoras en la aplicación,Beta 2.0,3
+6/09/2018,Se publica versión 2.0 de la aplicación destaca full compatibilidad con pantallas notch en Android e iOS,Mejoras en la aplicación,2.0,3
+15/01/2018,Se estudia una mayor presencia en la difusión y promoción de cursos de la Unidad de postítulo y postgrado,Mejoras en la aplicación,Alpha 2.1,3
+10/02/2018,"Se añade vista mejorada de cursos de postítulo en vista a promocionar los cursos, lo que implicará actualizar al menos dos veces al semestre la aplicación para promocionar los nuevos curso",Mejoras en la aplicación,2.1,3
