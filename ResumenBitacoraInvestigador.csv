@@ -1,9 +1,9 @@
 FECHA,DESCRIPCIÓN,OBJETIVO,V. APP,CICLO
 30/05/2016,Se estudian diversas alternativas para elaborar solicitud de desarrollo de una calculadora Obstétrica,Seleccionar en lo posible una plataforma que permita elaborar aplicaciones tanto para Android como para iOS,No Aplica,1
 13/06/2016,"Se selecciona Ionic Framework para desarrollar la propuesta en vista de ser una plataforma hibrida de desarrollo basada en Angular y Javascript con un equipo que actualiza constantemente el framework, se destaca la cantidad de plantillas disponible en la misma plataforma, además de una buena base de documentación.",Definir marco de trabajo para el desarrollo,No Aplica,1
-17/06/2016,Se comienza a hacer pruebas de desarrollo de la calculadora en Ionic 1,Pruebas de desarrollo,No Aplica,1
-4/07/2016,"Se tiene ya elaborado un primer prototipo muy básico de la aplicación que realiza calculos los calculos en base a FUR, calcula fecha probable de parto según norma de Chile y semanas de embarazo, se compila para iOS",Prototipo de aplicación aún muy básico,No Aplica,1
-20/07/2016,"Ya se tiene prototipo funcional para calculos según FUR y FUR operacional, calcula semanas de embarazo, fecha probable de parto y descanso prenatal, se compila para iOS",Prototipo inicial de pruebas,No Aplica,1
+13/06/2016,Se comienza a hacer pruebas de desarrollo de la calculadora en Ionic 1,Pruebas de desarrollo,No Aplica,1
+20/06/2016,"Se tiene ya elaborado un primer prototipo muy básico de la aplicación que realiza calculos los calculos en base a FUR, calcula fecha probable de parto según norma de Chile y semanas de embarazo, se compila para iOS",Prototipo de aplicación aún muy básico,No Aplica,1
+20/07/2016,"Ya se tiene una versión funcional para calculos según FUR y FUR operacional, calcula semanas de embarazo, fecha probable de parto y descanso prenatal, se compila para iOS",Prototipo inicial de pruebas,No Aplica,1
 12/08/2016,"Se presenta app a consejo de Escuela quiene splantean posibilidad de patentar la aplicación, se presenta prototipo para iOS",Presentar idea,1.0,1
 18/07/2016,Se realiza ajustes y correcciones a la interfaz y se compila proyecto para Android,Mejoras en la aplicación,1.0,1
 29/07/2016,Se Observa una baja en la performance de inicio de la aplicación en Android,Incidencia en Android,1.0,1
